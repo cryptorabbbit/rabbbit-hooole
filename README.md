@@ -1,2 +1,2 @@
 # rabbit hole
-sandbox for frontend
+for frontend
