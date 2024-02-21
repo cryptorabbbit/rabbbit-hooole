@@ -1,2 +1,1 @@
-# rabbit
-# frontend
+# rabbit frontend
